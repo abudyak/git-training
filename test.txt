@@ -2,5 +2,3 @@
 Hello Git!!!
 It's new line. 
 Add secondary line.
-
-Merge vs Rebase
